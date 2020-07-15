@@ -49,6 +49,16 @@
   border-color: green;
   background: rgb(0, 204, 255);
 }
+.best-answer{
+  background: orange;
+  height: 32px;
+  width: 125px;
+  text-align: center;
+  line-height: 32px;
+  margin-top: 4px;
+  border-radius: 3px;
+}
+
 a.dropdown-item{
   color: black !important;
 }

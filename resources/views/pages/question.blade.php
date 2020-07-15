@@ -76,7 +76,9 @@
                   <a href="#">User</a>
                   <p>dibuat pada:</p>
                 </div>
-
+                <div class="best-answer">
+                  <span class="mr-2">Best Answer</span><i class="fas fa-medal"></i>
+                </div>
                 <a class="nav-link" href="#" id="commentDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-ellipsis-v"></i>
                 </a>
                 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="commentDropdown">

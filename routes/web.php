@@ -22,3 +22,7 @@ Route::get('/question', function(){
 Route::get('/profile', function(){
     return view('pages.profile');
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
